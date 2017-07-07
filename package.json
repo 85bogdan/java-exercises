@@ -1,0 +1,22 @@
+{
+  "name": "java-exercises",
+  "version": "1.0.0",
+  "description": "java script exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/85bogdan/java-exercises.git"
+  },
+  "author": "Daniel Bogucki\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cjava script\u001b[B\u001b[B\u001b[C\u001b[C\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/85bogdan/java-exercises/issues"
+  },
+  "homepage": "https://github.com/85bogdan/java-exercises#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
